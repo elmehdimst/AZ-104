@@ -1,15 +1,22 @@
 {
-  "Name": "Helpdesk Administrators",
-  "Description": "Can Read, Restart VMs, and log support tickets with Microsoft",
-  "Actions": [
-      "*/read",
-      "Microsoft.Compute/virtualMachines/start/action",
-      "Microsoft.Support/*"
-  ],
-  "NotActions": [],
-  "DataActions": [],
-  "NotDataActions": [],
-  "AssignableScopes": [
-      "/subscriptions/subscriptionId"
-  ]
+  "properties": {
+      "roleName": "Helpdesk Administrators",
+      "description": "Can Read, Restart VMs, and log support tickets with Microsoft",
+      "assignableScopes": [
+        "/subscriptions/<subscriptionId>/resourceGroups/<resourceGroupsName>"
+      ],
+      "permissions": [
+          {
+              "actions": [
+                "*/read",
+                "Microsoft.Compute/virtualMachines/start/action",
+                "Microsoft.Compute/virtualMachines/restart/action",
+                "Microsoft.Support/*"
+              ],
+              "notActions": [],
+              "dataActions": [],
+              "notDataActions": []
+          }
+      ]
+  }
 }
