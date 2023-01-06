@@ -8,3 +8,6 @@ n15*bNL071cPtoLltYuT
 Azure Sandbox 2
 labuser_85512_72668463@instructorwhizlabs.onmicrosoft.com
 a1ON!u#5%wYQ43xE
+
+said@u1ngbsgroup.onmicrosoft.com
+Japo7229
