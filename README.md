@@ -25,7 +25,7 @@ Microsoft Azure Administrator AZ-104 Labs
 N  | Activation Code
 ------------- | -------------
 1  | ~~QNDBKPKLFOMN2KWQGT~~
-2 |  QDMBLG6CQBLHSJMTQV
+2 |  ~~QDMBLG6CQBLHSJMTQV~~
 3 |  QNY49DM2MT0K918TOI
 4 |  QRQCHW61SFHGJJBWUG
 5 |  QTSF72UUDH1ZPC3FPK
