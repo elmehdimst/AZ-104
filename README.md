@@ -12,7 +12,7 @@ Microsoft Azure Administrator AZ-104 Labs
 2. Accédez au site : https://www.microsoftazurepass.com/
 3. Cliquez sur SIGN IN (en haut à droite).
 4. Authentifiez-vous avec votre compte Microsoft (compte personnel)
-5. Confirmez vos informations puis entrez votre code Promo (celui en bas de ce mail).
+5. Confirmez vos informations puis entrez votre code Promo (liste en bas).
 6. Suivez les étapes d’activation de votre abonnement (entre 4 à 6 minutes)
 
 **Notez que :**
