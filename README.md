@@ -21,3 +21,8 @@ Microsoft Azure Administrator AZ-104 Labs
    * 24h après réception de ce mail.
    * Épuisement du solde 100$
    * 30 jours après son activation.
+
+N  | Activation Code
+------------- | -------------
+1  | QNDBKPKLFOMN2KWQGT
+2 |  QDMBLG6CQBLHSJMTQV
