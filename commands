@@ -1,0 +1,4 @@
+az vm create -n vm-demo-01 -g rg-prod --image UbuntuLTS --generate-ssh-keys
+
+
+az vm create -n vm-demo-01 -g rg-prod --image UbuntuLTS --admin-username azureuser --ssh-key-value .ssh/id_rsa.pub 

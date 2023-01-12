@@ -1,0 +1,19 @@
+[
+  {
+    "assignableScopes": [],
+    "description": "",
+    "id": "",
+    "name": "",
+    "permissions": [
+      {
+        "actions": [],
+        "dataActions": [],
+        "notActions": [],
+        "notDataActions": []
+      }
+    ],
+    "roleName": "",
+    "roleType": "CustomRole",
+    "type": "Microsoft.Authorization/roleDefinitions"
+  }
+]
